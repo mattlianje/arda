@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+**/.idea/
+.bsp/
+**/target/
+**/project/target/
+**/project/project/
+package-lock.json
+*.swp
+photos/

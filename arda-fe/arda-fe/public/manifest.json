@@ -1,0 +1,8 @@
+{
+  "short_name": "Arda Photo Server",
+  "name": "Nargothrond's Photo Server - Arda",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
