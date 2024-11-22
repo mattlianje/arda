@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="pix/arda_with_github.png" width="400"/>
+    <img src="pix/arda_with_github.png" width="300"/>
 </div>
 
 # Arda
